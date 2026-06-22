@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Arun Rajak</h1>
 <h3 align="left">A passionate QA Engineer 🙂</h3>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 📫 How to reach me **arunrajak19@gmail.com**
 
